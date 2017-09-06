@@ -3,12 +3,12 @@ highlighter: rouge
 sass:
   style: compressed
 
-gauges_id: 503c5af6613f5d0f19000027
-google_analytics_id: UA-50755011-1
-google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
+# gauges_id: 503c5af6613f5d0f19000027
+# google_analytics_id: UA-50755011-1
+# google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
 
-repository: https://github.com/jekyll/jekyll
-help_url: https://github.com/jekyll/jekyll-help
+repository: https://github.com/mobb/documentation-test2
+help_url: 
 
 timezone: America/Los_Angeles
 
@@ -37,9 +37,9 @@ collections:
   tutorials:
     output: true
 
-name: Jekyll • Simple, blog-aware, static sites
+name: EDI testing proj documentation
 description: Transform your plain text into static websites and blogs
-url: https://jekyllrb.com
+url: https://mobb.github.io/documentation-test2
 
 twitter:
   username: jekyllrb
